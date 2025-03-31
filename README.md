@@ -24,3 +24,7 @@ This hands-on experience demonstrates the ability to:
 <p>
   <img src="https://github.com/user-attachments/assets/c9712364-83f0-40c2-8ebf-09712f49c512">
 </p>
+
+<p>
+  <img src="https://github.com/user-attachments/assets/740e14b9-c001-49bd-b151-0e9be0ebdddd">
+</p>
