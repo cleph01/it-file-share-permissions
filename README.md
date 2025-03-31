@@ -2,7 +2,7 @@
   <img src="https://tresorit.com/blog/content/images/size/w2000/2023/07/Secure-file-sharing_withoutlogo@2x.png" alt="Network File Share Diagram" width="300">
 </p>
 
-# Azure Network File Shares and Permissions Management Lab
+# Azure Network File Shares and Permissions Management
 
 ## Overview
 
