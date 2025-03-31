@@ -22,5 +22,5 @@ This hands-on experience demonstrates the ability to:
 ## Using Powershell (administrator mode) to create the 4 folders
 
 <p>
-  ![image](https://github.com/user-attachments/assets/c9712364-83f0-40c2-8ebf-09712f49c512)
+  <img src="https://github.com/user-attachments/assets/c9712364-83f0-40c2-8ebf-09712f49c512">
 </p>
