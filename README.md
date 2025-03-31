@@ -18,3 +18,9 @@ This hands-on experience demonstrates the ability to:
 - Develop a foundational understanding of security best practices related to file sharing.
 
 ---
+
+## Using Powershell (administrator mode) to create the 4 folders
+
+<p>
+  ![image](https://github.com/user-attachments/assets/c9712364-83f0-40c2-8ebf-09712f49c512)
+</p>
