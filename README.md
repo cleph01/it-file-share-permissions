@@ -142,6 +142,23 @@ Go back to DC-1, in Active Directory, create a security group called “ACCOUNTA
 
 - On DC-1, make <someuser> a member of the “ACCOUNTANTS”  Security Group
 
+<p>
+  <img src="https://github.com/user-attachments/assets/fb957d24-31e7-4fee-a8ba-3b6362fda285">
+</p>
+
+
 - Sign back into Client-1 as <someuser> and try to access the “accounting” share in \\DC-1\ - Does it work now?
 
+**Now have Read/Write access to "accounting" folder
+<p>
+  <img src="https://github.com/user-attachments/assets/89ed2a56-b7f5-4cf7-b00e-11159d7b5c47">
+</p>
+
+<p>
+  <img src="https://github.com/user-attachments/assets/47cd1245-d3eb-4ba8-86fb-048ba7dfa2e2">
+</p>
+
+<p>
+  <img src="https://github.com/user-attachments/assets/005eb77e-f68c-4240-8791-e441d1f6107b">
+</p>
 
