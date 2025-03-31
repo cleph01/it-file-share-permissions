@@ -25,6 +25,13 @@ This hands-on experience demonstrates the ability to:
   <img src="https://github.com/user-attachments/assets/c9712364-83f0-40c2-8ebf-09712f49c512">
 </p>
 
+**Googled the code for Powershell command**
 <p>
   <img src="https://github.com/user-attachments/assets/740e14b9-c001-49bd-b151-0e9be0ebdddd">
+</p>
+
+**Shows result. 4 new directories in the C: directory**
+<p>
+  <img src="https://github.com/user-attachments/assets/efa77a59-b399-4eeb-91b2-81f517fa0635">
+
 </p>
